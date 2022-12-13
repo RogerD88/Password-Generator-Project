@@ -1,4 +1,4 @@
-# 03 JavaScript: Password Generator
+Password Generator via Java Script
 
 ## User Story
 

@@ -28,4 +28,4 @@ THEN a password is generated that matches the selected criteria
 WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 
-![name-of-you-image](https://github.com/RogerD88/Password-Generator-Project/blob/main/Screenshot%202022-12-12%20180600.jpg)
+![Screenshot 2022-12-12 180600](https://github.com/RogerD88/Password-Generator-Project/blob/main/Screenshot%202022-12-12%20180600.jpg)
